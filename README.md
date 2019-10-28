@@ -1,2 +1,0 @@
-# testRxJS
-Created with CodeSandbox
